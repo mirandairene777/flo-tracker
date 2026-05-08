@@ -1,3 +1,3 @@
 # flo-tracker
 
-A Flo tracker made in Flutter, still in progress.
+A Flutter-based menstrual cycle (Flo) tracker, still in progress.
