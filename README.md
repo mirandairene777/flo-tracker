@@ -1,2 +1,3 @@
 # flo-tracker
-under construction, posting progress with my team mates
+
+A Flo tracker made in Flutter, still in progress.
