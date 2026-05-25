@@ -1,2 +1,3 @@
 # flo-tracker
-under construction, posting progress with my team mates
+
+A Flutter-based menstrual cycle (Flo) tracker, still in progress.
